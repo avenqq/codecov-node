@@ -1,4 +1,4 @@
-# Codecov NodeJS Uploader
+# Codecov NodeJS Uploader Test
 
 [![Build Status][travis-image]][travis-url] [![codecov.io](https://codecov.io/github/avenqq/codecov-node/coverage.svg?branch=master)](https://codecov.io/github/avenqq/codecov-node?branch=master)
 
